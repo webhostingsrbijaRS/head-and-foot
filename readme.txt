@@ -1,8 +1,9 @@
 === Head & Foot Scripts ===
-Contributors: YourUsername
-Tags: scripts, header, footer
+Contributors: DjordjeB
+Tags: scripts, header, footer,body, insert
 Requires at least: 5.0
 Tested up to: 6.3.1
+Requires PHP: 8.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
